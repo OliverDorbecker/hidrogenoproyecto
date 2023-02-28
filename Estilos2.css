@@ -1,0 +1,43 @@
+@charset "utf-8";
+#Contenedor {
+    background-color: #17f9ff;
+    height: 1000px;
+    width: 100%;
+}
+#BodyArribaIzquierda {
+    background-color: #012677;
+    height: 400px;
+    width: 25%;
+    float: left;
+    margin-right: 5%;
+}
+#BocyCentro {
+    background-color: #005bc5;
+    height: 400px;
+    width: 25%;
+    float: left;
+    margin-right: 5%;
+}
+#ContenedorBody {
+    background-color: hsla(182,100%,55%,1);
+    height: 1000px;
+    width: 100%;
+}
+#BodyDerecha {
+    background-color: #001449;
+    float: right;
+    height: 1000px;
+    width: 40%;
+}
+#ContenedorAbajo {
+    background-color: hsla(182,100%,55%,1);
+    height: 600px;
+    width: 60%;
+    float: left;
+}
+#BodyAbajo {
+    background-color: #00b4fc;
+    height: 500px;
+    width: 100%;
+    margin-top: 50px;
+}
